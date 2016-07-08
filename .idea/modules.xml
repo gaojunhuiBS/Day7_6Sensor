@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day7_6Sensor.iml" filepath="$PROJECT_DIR$/Day7_6Sensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day7_6soundpool/day7_6soundpool.iml" filepath="$PROJECT_DIR$/day7_6soundpool/day7_6soundpool.iml" />
+    </modules>
+  </component>
+</project>
